@@ -1,0 +1,272 @@
+.header{
+
+margin-left:auto;
+margin-right:auto;
+background-color:#9999FF;
+}
+.fhead{
+width:1000px;
+height:200px;
+}
+.image{
+height:200px;
+width:200px;
+float:left;
+padding-top:20px;
+padding-left:10px;
+}
+.title{
+height:200px;
+width:790px;
+background-color:#9999FF;
+text-align:center;
+float:right;
+padding-top:10px;
+}
+.title h1{
+padding-top:30px;
+}
+.shead{
+
+}
+.menu{
+
+background-color:#CC99FF;
+text-decoration:none;
+font-style:oblique;
+}
+.menu ul li{
+padding:70px;
+display:inline;
+font-style:oblique;
+}
+.menu ul li a{
+text-decoration:none
+
+}
+
+
+
+
+.footer{
+
+background-color:#9999FF;
+margin-left:auto;
+margin-right:auto;
+}
+.rev{
+
+
+text-align:center;
+}
+
+.para{
+text-align:center;
+
+}
+
+
+.cuisin{
+height:500px;
+margin-left:auto;
+margin-right:auto;
+background-color:#FFFFFF;
+background-image:url(pexels-pixabay-531880.jpg);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+background-attachment:fixed;
+}
+.indchin{
+height:250px;
+width:1000px;
+height:250px;
+}
+.indian{
+width:500px;
+height:250px;
+float:left;
+}
+.indianimg{
+height:250px;
+width:250px;
+float:left;
+}
+.indianmenu{
+width:250px;
+height:250px;
+float:right;
+color:#000000;
+
+}
+.indianmenu ul{
+text-decoration:none;
+text-transform:capitalize;
+te
+}
+
+
+
+.chinese{
+width:500px;
+height:250px;
+float:right;
+}
+.chineseimg{
+height:250px;
+width:250px;
+float:left;
+}
+.chinesemenu{
+width:250px;
+height:250px;
+float:right;
+color:#000000;
+}
+
+
+.korital{
+width:1000px;
+height:250px;
+}
+.korean{
+width:500px;
+height:250px;
+float:left;
+}
+.koreanimg{
+height:250px;
+width:250px;
+float:left;
+}
+.koreanmenu{
+width:250px;
+height:250px;
+float:right;
+color:#000000;
+}
+
+.italian{
+width:500px;
+height:250px;
+float:right;
+}
+.italianimg{
+height:250px;
+width:250px;
+float:left;
+}
+.italianmenu{
+width:250px;
+height:250px;
+float:right;
+color:#000000;
+}
+
+
+
+
+
+.home{
+margin-left:auto;
+margin-right:auto;
+background-image:url(home.jpeg);
+color:#FFFFFF;
+}
+
+.contact{
+background-color:#99CCFF;
+background-image:url(andrew-bain-17GvkuVjLw4-unsplash.jpg);
+ background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+background-attachment:fixed;
+}
+
+.map{
+allign:center;
+padding-left:100px;
+}
+
+
+
+.book{
+background-image:url(pexels-sebastiaan9977-1097456.jpg);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+background-attachment:fixed;
+color:#FFFFFF;
+}
+
+.address{
+text-align:center;
+color:#CCCCCC;
+}
+
+.social{
+padding-left:700px;
+}
+
+.social a{
+  padding: 30px;
+  font-size: 20px;
+  width: 40px;
+  text-align:left;
+  text-decoration: none;
+  font-style:oblique;
+  }
+ 
+ .feedback{
+ padding-left:100px;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .entrybody{
+ background-color:#000000;
+ color:#FFFFFF;
+ text-align:center;
+ background-image:url(pexels-8moments-1323550.jpg);
+ background-attachment:scroll;
+ background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ 
+ .entry{
+ padding-top:200px;
+ }
+ 
+ .button{
+ padding-top:100px;
+ border-radius: 50%;
+ 
+ }
+ 
+ .button a{
+ text-decoration:none;
+ font-size:60px;
+ border-radius: 100%;
+   background-color: #04AA6D;
+ color: white;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+
+ }
+  .button a:hover{
+  background-color:#00FF00;
+  }
+
+.headline h1:hover{
+color:#0066FF;
+}
+ 
